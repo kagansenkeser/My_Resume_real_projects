@@ -3,10 +3,3 @@
 <img align="right" alt="Coding" width="400" src=https://media3.giphy.com/media/wUT19Zbh3lpa7eFYbB/giphy.webp>
 
 
-<img align="right" alt="Coding" width="400" src=>
-
-
-<img align="right" alt="Coding" width="400" src=>
-
-
-<img align="right" alt="Coding" width="400" src=>
