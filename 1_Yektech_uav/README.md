@@ -11,3 +11,6 @@ kodun calnı çalışan videosu ile bir kaç iha resmi daha gelicek <3
 
 
 <img align="left" alt="Coding" width="380" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR4b3NoMXU4ZGdxN3U0d3N5aWduMHo4Z3N1cnI5bWMxZmRuamR3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qsxdv3T4E9nH9zuEmj/giphy.webp>
+
+
+
