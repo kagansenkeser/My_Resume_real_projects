@@ -6,3 +6,4 @@
 
 
 ![1683925900987](https://github.com/kagansenkeser/My_Resume_real_projects/assets/98644514/00a34edc-537e-4b51-85b6-5afa109ef4e0)
+![709891ef-bb9d-44cd-95be-1c134b3fa18a](https://github.com/kagansenkeser/My_Resume_real_projects/assets/98644514/1b69e52f-d029-401b-843a-fdff4e872ab2)
