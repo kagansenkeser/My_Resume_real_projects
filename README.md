@@ -1,4 +1,3 @@
-# Chapters
 
 |Chapter|Project|Showcase|Video|Description|
 |:----:|:----:|:----:|:----:|:----:|
