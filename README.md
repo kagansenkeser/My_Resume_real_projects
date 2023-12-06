@@ -1,6 +1,6 @@
 # Chapters
 
-|Chapter|Project|Image|Video|Description|
+|Chapter|Project|Showcase|Video|Description|
 |:----:|:----:|:----:|:----:|:----:|
 |1| [Yektech_uav](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/chapter1.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter1.gif" width="360" height="150" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=549) | Learn how to read images videos and webcam.  </br> |
 |2| [Blackbird_ucav](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/chapter2.py)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Chapter2.gif" width="300" height="150" /> |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=1021) |     5 Must know opencv functions for beginners. Gray Scale, Blur, Edge Detection, Dialation and Erosion.  </br> |
