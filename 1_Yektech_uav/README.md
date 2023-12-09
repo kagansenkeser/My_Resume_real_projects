@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="380" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXIzY2E5d3FteTIzcnRlbjYwYno5ZHhxNWJsOGNjMjZmNDhsYjl0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X0C4y9io55NijOwMOH/giphy.webp>
 
 
-<img align="right" alt="Coding" width="380" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdtejVtanJsemJyZGlwNjZ1NTFxNWdsMGc3bGFxbXNteWt0cnNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9LVe2S9DFQbyMVWTE/giphy.webp>
+<img align="left" alt="Coding" width="380" src=https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdtejVtanJsemJyZGlwNjZ1NTFxNWdsMGc3bGFxbXNteWt0cnNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y9LVe2S9DFQbyMVWTE/giphy.webp>
 
 
 
@@ -12,7 +12,3 @@
 
 
 <img align="left" alt="Coding" width="380" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR4b3NoMXU4ZGdxN3U0d3N5aWduMHo4Z3N1cnI5bWMxZmRuamR3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qsxdv3T4E9nH9zuEmj/giphy.webp>
-
-
-
-dsds
